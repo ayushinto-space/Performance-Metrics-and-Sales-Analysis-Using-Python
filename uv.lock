@@ -1074,8 +1074,10 @@ name = "performance-metrics-and-sales-analysis-using-python"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "ipywidgets" },
     { name = "jupyter" },
     { name = "matplotlib" },
+    { name = "nbconvert" },
     { name = "numpy" },
     { name = "pandas" },
     { name = "seaborn" },
@@ -1083,8 +1085,10 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "ipywidgets", specifier = ">=8.1.8" },
     { name = "jupyter", specifier = ">=1.1.1" },
     { name = "matplotlib", specifier = ">=3.10.7" },
+    { name = "nbconvert", specifier = ">=7.16.6" },
     { name = "numpy", specifier = ">=2.3.5" },
     { name = "pandas", specifier = ">=2.3.3" },
     { name = "seaborn", specifier = ">=0.13.2" },
