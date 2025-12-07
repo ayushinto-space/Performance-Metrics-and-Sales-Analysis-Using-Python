@@ -28,7 +28,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 10027,2025-04-22,Kimaya Rege,North,Lucknow,Beauty,Foundation,Foundation Illo,1,8276.0,0,8276.0,537.47,Net Banking,6.494320927984535,April,4
 10028,2024-12-12,Anika Wable,East,Bhubaneswar,Furniture,Table,Table Error,3,731.0,0,2193.0,214.1,Upi,9.762881896944824,December,12
 10029,2025-08-27,Kavya Bhatnagar,North,Delhi,Toys,Rc Car,RC Car Amet,2,67085.0,20,107336.0,22034.77,Net Banking,20.528778788104642,August,8
-10030,2024-04-22,Adira Seshadri,North,Chandigarh,Groceries,Sugar,Sugar Excepturi,5,79277.0019,15,337675.25,80309.87,Debit Card,23.78316740714636,April,4
+10030,2024-04-22,Adira Seshadri,North,Chandigarh,Groceries,Sugar,Sugar Excepturi,5,79277.19,15,337675.25,80309.87,Debit Card,23.78316740714636,April,4
 10031,2025-01-07,Zaina Sidhu,West,Goa,Groceries,Wheat,Wheat Consequuntur,2,25545.0,10,45981.0,9818.01,Credit Card,21.3523194362889,January,1
 10032,2023-12-11,Bhamini Kuruvilla,North,Jaipur,Sports,Cricket Bat,Cricket Bat Voluptatum,4,76643.0,5,291243.4,40522.22,Upi,13.91352387727928,December,12
 10033,2024-06-24,Kavya Saran,West,Ahmedabad,Furniture,Sofa,Sofa Deleniti,4,60561.0,20,193795.2,21970.55,Net Banking,11.336993898713693,June,6
@@ -132,7 +132,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 10131,2024-07-03,Ishaan Walia,South,Hyderabad,Electronics,Headphones,Headphones Id,4,61765.0,5,234707.0,30160.38,Net Banking,12.850226026492606,July,7
 10132,2024-08-22,Oorja Sur,East,Patna,Clothing,Women'S Wear,Women's Wear Ipsa,4,2962.0,20,9478.4,583.27,Credit Card,6.1536757258609045,August,8
 10133,2024-08-01,Dharmajan Lall,East,Kolkata,Toys,Puzzle,Puzzle Placeat,3,17679.0,15,45081.45,2373.83,Upi,5.265646956785995,August,8
-10134,2024-01-23,Shanaya Kala,North,Chandigarh,Furniture,Sofa,Sofa Nulla,1,79277.0019,15,67413.5,6655.67,Upi,9.872903795233892,January,1
+10134,2024-01-23,Shanaya Kala,North,Chandigarh,Furniture,Sofa,Sofa Nulla,1,79277.19,15,67413.5,6655.67,Upi,9.872903795233892,January,1
 10135,2024-08-06,Rati Goel,South,Chennai,Electronics,Camera,Camera Culpa,4,33270.0,5,126426.0,12467.79,Debit Card,9.86172939110626,August,8
 10136,2024-03-24,Ivan Sarna,West,Mumbai,Toys,Doll,Doll Adipisci,3,35928.0,5,102394.8,10207.76,Debit Card,9.969021864391552,March,3
 10137,2025-03-26,Akarsh Hayre,East,Kolkata,Toys,Board Game,Board Game Animi,1,62438.0,5,59316.1,4810.78,Upi,8.110411844339058,March,3
@@ -316,7 +316,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 10315,2024-05-25,Saira Chacko,North,Jaipur,Books,Comics,Comics Reprehenderit,5,27101.0,10,121954.5,16875.23,Upi,13.837316376189479,May,5
 10316,2023-12-27,Biju Handa,East,Kolkata,Electronics,Headphones,Headphones Perferendis,4,58124.0,15,197621.6,24989.09,Debit Card,12.644918369247085,December,12
 10317,2024-05-11,Badal Sanghvi,South,Bangalore,Toys,Action Figure,Action Figure Ipsum,4,76344.0,10,274838.4,62452.3,Upi,22.723280298531794,May,5
-10318,2025-06-01,Manikya Sur,West,Pune,Sports,Cricket Bat,Cricket Bat Accusamus,3,79277.0019,5,227461.35,38212.89,Net Banking,16.799728833052296,June,6
+10318,2025-06-01,Manikya Sur,West,Pune,Sports,Cricket Bat,Cricket Bat Accusamus,3,79277.19,5,227461.35,38212.89,Net Banking,16.799728833052296,June,6
 10319,2024-10-27,Ritvik Sankar,West,Surat,Groceries,Wheat,Wheat Repellendus,3,47051.0,10,127037.7,28041.84,Credit Card,22.073636408719615,October,10
 10320,2025-05-26,Gokul Kari,North,Delhi,Groceries,Wheat,Wheat Facere,1,79212.0,0,79212.0,6199.67,Credit Card,7.8266803009645,May,5
 10321,2024-01-22,Veer Sood,North,Chandigarh,Furniture,Chair,Chair Odit,3,27980.0,15,71349.0,15172.76,Debit Card,21.265553826963238,January,1
@@ -432,7 +432,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 10431,2023-12-11,Advik Talwar,West,Ahmedabad,Toys,Action Figure,Action Figure Atque,2,25502.0,20,40803.2,3958.24,Debit Card,9.700807779781979,December,12
 10432,2024-04-16,Zara Ramachandran,East,Kolkata,Groceries,Rice,Rice Illum,4,42773.0,20,136873.6,20500.48,Upi,14.977672830991512,April,4
 10433,2025-04-28,Dhanuk Saraf,East,Kolkata,Sports,Cricket Bat,Cricket Bat Iusto,5,21146.0,10,95157.0,20223.31,Cod,21.252572065113444,April,4
-10434,2025-02-17,Dhanuk Soni,North,Amritsar,Sports,Cricket Bat,Cricket Bat Totam,2,79277.0019,0,159698.0,38482.39,Credit Card,24.096976793698104,February,2
+10434,2025-02-17,Dhanuk Soni,North,Amritsar,Sports,Cricket Bat,Cricket Bat Totam,2,79277.19,0,159698.0,38482.39,Credit Card,24.096976793698104,February,2
 10435,2025-09-20,Indrajit Wason,North,Lucknow,Clothing,Women'S Wear,Women's Wear Non,3,41591.0,10,112295.7,26273.46,Upi,23.39667502851846,September,9
 10436,2024-07-17,Hazel Kade,North,Jaipur,Toys,Puzzle,Puzzle Tempore,1,17173.0,10,15455.7,3606.43,Cod,23.33398034382137,July,7
 10437,2025-05-25,Armaan Kunda,West,Mumbai,Groceries,Rice,Rice Accusantium,4,8489.0,10,30560.4,1975.66,Net Banking,6.464771403515661,May,5
@@ -513,7 +513,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 10512,2024-09-02,Trisha Dutt,West,Ahmedabad,Beauty,Lipstick,Lipstick Illo,2,44567.0,5,84677.3,19553.67,Net Banking,23.091985691560783,September,9
 10513,2025-01-11,Parinaaz Rama,North,Delhi,Toys,Rc Car,RC Car Illo,3,65153.0,20,156367.2,11129.02,Debit Card,7.117234304892587,January,1
 10514,2023-10-20,Samaira Loyal,South,Bangalore,Beauty,Face Cream,Face Cream Ab,3,45532.0,0,136596.0,17650.23,Credit Card,12.921483791619082,October,10
-10515,2024-02-24,Raunak Mane,South,Coimbatore,Beauty,Lipstick,Lipstick Tenetur,4,79277.0019,0,317352.0,24679.03,Cod,7.776547808112127,February,2
+10515,2024-02-24,Raunak Mane,South,Coimbatore,Beauty,Lipstick,Lipstick Tenetur,4,79277.19,0,317352.0,24679.03,Cod,7.776547808112127,February,2
 10516,2023-11-13,Riya Date,West,Goa,Home Decor,Vase,Vase Inventore,1,56926.0,5,54079.7,12005.1,Cod,22.198902730599468,November,11
 10517,2025-04-24,Charvi Brar,South,Chennai,Electronics,Smartwatch,Smartwatch Similique,5,10963.0,0,54815.0,8558.02,Debit Card,15.61255130894828,April,4
 10518,2025-02-23,Heer Dhawan,West,Pune,Furniture,Table,Table Consequuntur,1,45870.0,15,38989.5,5105.08,Net Banking,13.093473883994408,February,2
@@ -836,7 +836,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 10835,2024-05-12,Dhanush Jayaraman,North,Jaipur,Toys,Action Figure,Action Figure Possimus,5,44189.0,5,209897.75,33204.58,Debit Card,15.819407306652883,May,5
 10836,2024-03-22,Tarini Ravi,East,Ranchi,Furniture,Table,Table Eaque,5,29514.0,0,147570.0,34950.93,Net Banking,23.68430575320187,March,3
 10837,2025-08-11,Shanaya Chacko,East,Kolkata,Furniture,Bed,Bed Distinctio,3,76291.0,5,217429.35,45944.7,Upi,21.130863887511044,August,8
-10838,2024-05-14,Prisha Guha,West,Goa,Groceries,Rice,Rice Dignissimos,1,79277.0019,20,63884.8,10892.13,Credit Card,17.049642481466638,May,5
+10838,2024-05-14,Prisha Guha,West,Goa,Groceries,Rice,Rice Dignissimos,1,79277.19,20,63884.8,10892.13,Credit Card,17.049642481466638,May,5
 10839,2024-06-15,Kiaan Batra,East,Bhubaneswar,Sports,Yoga Mat,Yoga Mat Perferendis,3,46328.0,0,138984.0,13131.13,Net Banking,9.44794364818972,June,6
 10840,2025-04-25,Tara Ratti,South,Coimbatore,Kitchen,Refrigerator,Refrigerator Ad,2,64873.0,0,129746.0,9933.6,Cod,7.656189786197648,April,4
 10841,2025-01-16,Anahita Rama,West,Mumbai,Groceries,Rice,Rice Deleniti,2,39562.0,20,63299.2,11971.03,Cod,18.91181879075881,January,1
@@ -1183,7 +1183,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11182,2024-07-16,Baiju Sunder,East,Guwahati,Toys,Puzzle,Puzzle Nesciunt,4,29631.0,5,112597.8,13167.15,Net Banking,11.693967377692992,July,7
 11183,2024-03-24,Divij Mallick,North,Lucknow,Kitchen,Mixer Grinder,Mixer Grinder Ullam,3,68227.0,0,204681.0,44311.79,Credit Card,21.649195577508415,March,3
 11184,2025-03-02,Aarush Mall,North,Delhi,Sports,Tennis Racket,Tennis Racket Ipsam,4,77522.0,15,263574.8,59364.54,Upi,22.522843610238915,March,3
-11185,2024-12-12,Neelofar Walia,West,Pune,Electronics,Mobile,Mobile Esse,1,79277.0019,0,79714.0,17338.62,Cod,21.751034949946053,December,12
+11185,2024-12-12,Neelofar Walia,West,Pune,Electronics,Mobile,Mobile Esse,1,79277.19,0,79714.0,17338.62,Cod,21.751034949946053,December,12
 11186,2025-08-29,Ryan Banik,North,Jaipur,Kitchen,Mixer Grinder,Mixer Grinder Dolorem,2,54554.0,5,103652.6,21673.16,Credit Card,20.909422436099046,August,8
 11187,2024-09-07,Rati Tailor,South,Coimbatore,Home Decor,Lamp,Lamp Eius,2,34906.0,0,69812.0,14777.1,Credit Card,21.166991348192287,September,9
 11188,2024-01-07,Amani Sabharwal,North,Amritsar,Books,Non-Fiction,Non-Fiction Ipsum,5,57791.0,0,288955.0,40433.92,Debit Card,13.993154643456593,January,1
@@ -1245,7 +1245,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11244,2024-05-22,Vivaan Kumer,East,Bhubaneswar,Kitchen,Juicer,Juicer Delectus,5,16068.0,15,68289.0,11639.76,Upi,17.044853490313226,May,5
 11245,2024-08-28,Vedika Tank,North,Lucknow,Sports,Cricket Bat,Cricket Bat Facilis,4,37969.0,10,136688.4,26268.67,Net Banking,19.217921930463742,August,8
 11246,2025-03-11,Armaan Sibal,South,Coimbatore,Home Decor,Lamp,Lamp Omnis,4,41958.0,10,151048.8,8095.62,Credit Card,5.3596056373834156,March,3
-11247,2025-04-29,Amira Chandran,South,Bangalore,Electronics,Laptop,Laptop Porro,3,79277.0019,10,214417.8,20422.84,Debit Card,9.524787587597672,April,4
+11247,2025-04-29,Amira Chandran,South,Bangalore,Electronics,Laptop,Laptop Porro,3,79277.19,10,214417.8,20422.84,Debit Card,9.524787587597672,April,4
 11248,2024-11-27,Abram Mani,North,Chandigarh,Sports,Football,Football Architecto,4,56787.0,15,193075.8,18580.58,Cod,9.623463945248448,November,11
 11249,2024-06-26,Rasha Dar,North,Jaipur,Kitchen,Juicer,Juicer Quis,4,15661.0,5,59511.8,4290.49,Net Banking,7.209477784237747,June,6
 11250,2024-04-08,Krish Gulati,West,Goa,Beauty,Foundation,Foundation Velit,4,55121.0,15,187411.4,36536.59,Credit Card,19.495393556635292,April,4
@@ -1261,7 +1261,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11260,2024-06-15,Jhanvi Chaudhuri,North,Chandigarh,Furniture,Cabinet,Cabinet Quaerat,3,43133.0,10,116459.1,19989.21,Credit Card,17.164146039253264,June,6
 11261,2024-08-06,Samaira Gara,South,Bangalore,Beauty,Perfume,Perfume Porro,5,27702.0,10,124659.0,26106.42,Upi,20.94226650302024,August,8
 11262,2023-11-11,Saanvi Konda,North,Chandigarh,Home Decor,Cushion,Cushion Quos,4,456.0,10,1641.6,198.27,Net Banking,12.077850877192983,November,11
-11263,2024-08-31,Jiya Tella,East,Kolkata,Kitchen,Mixer Grinder,Mixer Grinder Aliquid,1,79277.0019,0,79297.0,10225.74,Upi,12.89549415488606,August,8
+11263,2024-08-31,Jiya Tella,East,Kolkata,Kitchen,Mixer Grinder,Mixer Grinder Aliquid,1,79277.19,0,79297.0,10225.74,Upi,12.89549415488606,August,8
 11264,2024-11-10,Piya Sura,North,Chandigarh,Kitchen,Refrigerator,Refrigerator Minima,2,55685.0,5,105801.5,24399.43,Upi,23.061516141075504,November,11
 11265,2025-01-07,Amira Gupta,East,Ranchi,Kitchen,Microwave,Microwave Ad,1,8039.0,20,6431.2,803.22,Net Banking,12.489426545590248,January,1
 11266,2024-11-13,Pihu Chana,North,Jaipur,Home Decor,Wall Art,Wall Art Reprehenderit,2,22703.0,20,36324.8,3116.14,Upi,8.578546888076465,November,11
@@ -1312,7 +1312,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11311,2024-08-20,Emir Tak,West,Surat,Groceries,Spices,Spices Consectetur,5,18389.0,0,91945.0,10926.62,Cod,11.88386535428789,August,8
 11312,2023-11-05,Raunak Sankar,South,Bangalore,Clothing,Women'S Wear,Women's Wear Alias,5,14946.0,20,59784.0,12405.11,Debit Card,20.74988291181587,November,11
 11313,2025-03-04,Yashvi Gade,West,Pune,Groceries,Spices,Spices Quam,4,9616.0,0,38464.0,7110.4,Upi,18.48585690515807,March,3
-11314,2023-10-21,Amani Madan,North,Chandigarh,Beauty,Lipstick,Lipstick Amet,1,79277.0019,10,71998.2,5443.8,Credit Card,7.5610223588923064,October,10
+11314,2023-10-21,Amani Madan,North,Chandigarh,Beauty,Lipstick,Lipstick Amet,1,79277.19,10,71998.2,5443.8,Credit Card,7.5610223588923064,October,10
 11315,2025-03-25,Raunak Badami,North,Chandigarh,Home Decor,Clock,Clock Repellendus,4,58740.0,20,187968.0,44491.13,Net Banking,23.669523535921005,March,3
 11316,2024-12-07,Piya Rout,East,Kolkata,Groceries,Oil,Oil Illo,2,25518.0,0,51036.0,4992.62,Cod,9.782545654048121,December,12
 11317,2024-05-11,Anvi Sehgal,North,Delhi,Beauty,Face Cream,Face Cream Voluptatum,5,34673.0,10,156028.5,23506.05,Credit Card,15.06522846787606,May,5
@@ -1358,7 +1358,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11357,2024-07-24,Kiaan Wable,South,Hyderabad,Sports,Yoga Mat,Yoga Mat Repellat,1,23482.0,5,22307.9,2350.07,Cod,10.534698470048728,July,7
 11358,2023-10-25,Jiya Vyas,North,Chandigarh,Home Decor,Cushion,Cushion Et,2,47485.0,0,94970.0,12609.38,Cod,13.277224386648415,October,10
 11359,2024-07-03,Abram Chaudhary,North,Jaipur,Sports,Yoga Mat,Yoga Mat Rerum,1,30547.0,20,24437.6,1504.09,Cod,6.154818803810522,July,7
-11360,2024-11-13,Yakshit Singh,South,Bangalore,Sports,Dumbbells,Dumbbells Cumque,3,79277.0019,0,237888.0,55089.14,Upi,23.157595170836696,November,11
+11360,2024-11-13,Yakshit Singh,South,Bangalore,Sports,Dumbbells,Dumbbells Cumque,3,79277.19,0,237888.0,55089.14,Upi,23.157595170836696,November,11
 11361,2025-04-11,Mannat Sandal,East,Kolkata,Toys,Puzzle,Puzzle Laborum,4,43841.0,20,140291.2,15960.84,Net Banking,11.376935973175794,April,4
 11362,2024-07-11,Jayan Walla,North,Amritsar,Books,Biography,Biography Doloribus,5,61062.0,20,244248.0,35178.03,Net Banking,14.402586715141986,July,7
 11363,2024-12-18,Azad Issac,East,Patna,Furniture,Chair,Chair Dolor,1,38588.0,10,34729.2,2648.1,Upi,7.624995680867973,December,12
@@ -1426,7 +1426,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11425,2023-10-20,Rati Grewal,North,Lucknow,Books,Fiction,Fiction Quibusdam,2,48812.0,20,78099.2,5054.2,Debit Card,6.4715131525034835,October,10
 11426,2025-08-31,Chirag Chada,South,Chennai,Books,Fiction,Fiction Velit,2,16765.0,20,26824.0,3134.93,Net Banking,11.68703399940352,August,8
 11427,2024-03-15,Azad Kota,West,Ahmedabad,Electronics,Headphones,Headphones Laudantium,4,70205.0,0,280820.0,59885.0,Net Banking,21.32504807349904,March,3
-11428,2024-05-24,Sahil Raj,North,Delhi,Home Decor,Wall Art,Wall Art Unde,3,79277.0019,15,202403.7,48725.77,Net Banking,24.073556955727586,May,5
+11428,2024-05-24,Sahil Raj,North,Delhi,Home Decor,Wall Art,Wall Art Unde,3,79277.19,15,202403.7,48725.77,Net Banking,24.073556955727586,May,5
 11429,2024-11-09,Aayush Toor,East,Kolkata,Electronics,Mobile,Mobile Velit,1,50990.0,0,50990.0,11837.53,Upi,23.215395175524613,November,11
 11430,2024-01-15,Nayantara Sandhu,East,Ranchi,Groceries,Sugar,Sugar Inventore,5,3019.0,0,15095.0,858.18,Net Banking,5.685193772772441,January,1
 11431,2023-10-22,Anahi Sarma,West,Surat,Kitchen,Juicer,Juicer Illo,2,69886.0,0,139772.0,23487.65,Debit Card,16.80425979452251,October,10
@@ -1445,7 +1445,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11444,2024-09-14,Alia Chacko,East,Bhubaneswar,Clothing,Women'S Wear,Women's Wear Ea,3,50793.0,5,144760.05,31253.32,Upi,21.589741092241958,September,9
 11445,2024-04-18,Mamooty Kari,West,Pune,Furniture,Sofa,Sofa Exercitationem,1,16997.0,0,16997.0,2959.07,Credit Card,17.409366358769198,April,4
 11446,2024-08-14,Vaibhav Sheth,South,Chennai,Beauty,Shampoo,Shampoo Incidunt,1,54181.0,5,51471.95,12268.1,Debit Card,23.834535120585098,August,8
-11447,2025-07-04,Ranbir Saraf,South,Chennai,Kitchen,Juicer,Juicer Tempora,3,79277.0019,20,191642.4,30465.58,Upi,15.897097928224655,July,7
+11447,2025-07-04,Ranbir Saraf,South,Chennai,Kitchen,Juicer,Juicer Tempora,3,79277.19,20,191642.4,30465.58,Upi,15.897097928224655,July,7
 11448,2023-10-23,Kashvi Rout,South,Bangalore,Electronics,Headphones,Headphones Accusantium,5,67709.0,0,338545.0,81868.89,Credit Card,24.182572479286357,October,10
 11449,2024-06-21,Himmat Tak,South,Coimbatore,Toys,Rc Car,RC Car Fugit,3,10708.0,5,30517.8,3486.02,Credit Card,11.422907286894862,June,6
 11450,2025-03-17,Anvi Mallick,West,Pune,Beauty,Foundation,Foundation Cumque,3,69600.0,5,198360.0,38148.12,Cod,19.23176043557169,March,3
@@ -1497,7 +1497,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11496,2024-05-01,Mohanlal Suresh,West,Surat,Kitchen,Refrigerator,Refrigerator Et,3,24895.0,15,63482.25,10260.83,Net Banking,16.16330549090494,May,5
 11497,2024-06-07,Misha Gulati,East,Patna,Home Decor,Cushion,Cushion Consectetur,3,56151.0,20,134762.4,14586.69,Credit Card,10.824005805773718,June,6
 11498,2024-03-26,Misha Sem,South,Chennai,Groceries,Wheat,Wheat Debitis,2,72161.0,20,115457.6,27371.8,Debit Card,23.707231052784746,March,3
-11499,2025-08-13,Madhup Tata,South,Chennai,Kitchen,Refrigerator,Refrigerator Reiciendis,1,79277.0019,10,71668.8,11329.11,Credit Card,15.807589913602571,August,8
+11499,2025-08-13,Madhup Tata,South,Chennai,Kitchen,Refrigerator,Refrigerator Reiciendis,1,79277.19,10,71668.8,11329.11,Credit Card,15.807589913602571,August,8
 11500,2024-03-06,Aarav Batra,South,Coimbatore,Home Decor,Clock,Clock Exercitationem,1,31128.0,15,26458.8,3222.21,Upi,12.17821669917003,March,3
 11501,2025-08-27,Urvi Shenoy,West,Pune,Electronics,Smartwatch,Smartwatch At,1,13595.0,5,12915.25,1869.58,Debit Card,14.475755405431562,August,8
 11502,2024-11-16,Damini Loke,West,Ahmedabad,Books,Biography,Biography Neque,1,6343.0,0,6343.0,870.73,Upi,13.727416049188083,November,11
@@ -1572,7 +1572,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11571,2025-06-13,Lakshit Salvi,North,Delhi,Sports,Dumbbells,Dumbbells Facere,3,72783.0,10,196514.1,25235.58,Upi,12.84161289189936,June,6
 11572,2024-05-05,Indrans Reddy,North,Lucknow,Furniture,Table,Table Voluptas,1,62101.0,15,52785.85,7000.08,Upi,13.261281195623448,May,5
 11573,2024-07-25,Riaan Choudhry,East,Ranchi,Toys,Action Figure,Action Figure Pariatur,2,10088.0,15,17149.6,1071.1,Cod,6.245626720156738,July,7
-11574,2025-03-21,Anay Sangha,North,Lucknow,Sports,Football,Football A,4,79277.0019,0,318848.0,36875.17,Debit Card,11.565125075270975,March,3
+11574,2025-03-21,Anay Sangha,North,Lucknow,Sports,Football,Football A,4,79277.19,0,318848.0,36875.17,Debit Card,11.565125075270975,March,3
 11575,2025-07-09,Inaaya  Zachariah,West,Goa,Home Decor,Lamp,Lamp Fugit,5,46998.0,20,187992.0,39194.44,Upi,20.848993574194647,July,7
 11576,2024-10-20,Navya Sampath,North,Jaipur,Sports,Yoga Mat,Yoga Mat Facilis,4,74530.0,5,283214.0,66074.46,Net Banking,23.330223788372045,October,10
 11577,2025-08-18,Uthkarsh Khosla,South,Thiruvananthapuram,Home Decor,Cushion,Cushion Explicabo,2,3891.0,0,7782.0,1097.42,Credit Card,14.102030326394244,August,8
@@ -1645,7 +1645,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11644,2023-10-06,Anahita Sathe,North,Jaipur,Home Decor,Cushion,Cushion Ratione,1,24438.0,10,21994.2,5463.56,Net Banking,24.840912604232027,October,10
 11645,2025-06-28,Armaan Bawa,East,Ranchi,Furniture,Chair,Chair Iure,1,72063.0,5,68459.85,5222.84,Net Banking,7.629055570527835,June,6
 11646,2025-08-23,Anvi Bawa,North,Lucknow,Groceries,Spices,Spices Expedita,1,55914.0,0,55914.0,3180.85,Net Banking,5.688825696605501,August,8
-11647,2023-11-02,Shalv Gole,East,Kolkata,Electronics,Headphones,Headphones Corporis,3,79277.0019,20,190608.0,41600.7,Credit Card,21.82526441702342,November,11
+11647,2023-11-02,Shalv Gole,East,Kolkata,Electronics,Headphones,Headphones Corporis,3,79277.19,20,190608.0,41600.7,Credit Card,21.82526441702342,November,11
 11648,2023-10-19,Vaibhav Banik,East,Kolkata,Beauty,Foundation,Foundation Assumenda,4,42925.0,0,171700.0,28766.76,Debit Card,16.754082702387883,October,10
 11649,2025-03-15,Shalv Rattan,West,Mumbai,Furniture,Sofa,Sofa Quisquam,4,48402.0,0,193608.0,22576.47,Cod,11.66091793727532,March,3
 11650,2023-12-27,Vivaan Biswas,North,Delhi,Furniture,Chair,Chair Aut,2,33002.0,20,52803.2,12398.2,Upi,23.48001636264469,December,12
@@ -1670,7 +1670,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11669,2025-04-18,Yuvaan Thaman,North,Amritsar,Electronics,Headphones,Headphones Officia,4,69718.0,10,250984.8,36369.51,Cod,14.490722147317289,April,4
 11670,2024-07-15,Rasha Buch,North,Jaipur,Electronics,Mobile,Mobile Nesciunt,2,49573.0,20,79316.8,18206.41,Upi,22.95404000161378,July,7
 11671,2024-01-12,Prisha Kala,East,Guwahati,Sports,Football,Football Quia,3,18632.0,10,50306.4,5123.95,Net Banking,10.185483357982283,January,1
-11672,2025-07-18,Anvi Biswas,West,Surat,Sports,Dumbbells,Dumbbells Repellendus,4,79277.0019,10,285753.6,63249.01,Cod,22.134107846760287,July,7
+11672,2025-07-18,Anvi Biswas,West,Surat,Sports,Dumbbells,Dumbbells Repellendus,4,79277.19,10,285753.6,63249.01,Cod,22.134107846760287,July,7
 11673,2023-11-02,Elakshi Comar,East,Bhubaneswar,Kitchen,Juicer,Juicer Odio,1,46364.0,5,44045.8,8913.87,Debit Card,20.237729817598954,November,11
 11674,2024-03-04,Vedika Khalsa,North,Jaipur,Electronics,Laptop,Laptop Perspiciatis,3,39158.0,20,93979.2,17449.47,Debit Card,18.567374482864295,March,3
 11675,2023-10-19,Anika Talwar,East,Bhubaneswar,Furniture,Cabinet,Cabinet Ratione,2,27775.0,20,44440.0,2544.88,Upi,5.726552655265527,October,10
@@ -1713,7 +1713,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11712,2024-06-03,Heer Saini,South,Hyderabad,Clothing,Men'S Wear,Men's Wear Ipsam,1,35100.0,15,29835.0,2153.01,Net Banking,7.2163901458019115,June,6
 11713,2023-12-19,Shlok Sarna,West,Goa,Books,Comics,Comics Iste,2,65407.0,15,111191.9,24561.29,Credit Card,22.089100015378822,December,12
 11714,2025-09-08,Taran Setty,East,Patna,Clothing,Kids Wear,Kids Wear Fugit,1,19871.0,0,19871.0,1381.21,Debit Card,6.950883196618188,September,9
-11715,2025-08-12,Kimaya Divan,West,Ahmedabad,Furniture,Bed,Bed Ullam,3,79277.0019,0,239790.0,40314.98,Net Banking,16.81261937528671,August,8
+11715,2025-08-12,Kimaya Divan,West,Ahmedabad,Furniture,Bed,Bed Ullam,3,79277.19,0,239790.0,40314.98,Net Banking,16.81261937528671,August,8
 11716,2024-06-07,Anahi Bail,North,Jaipur,Kitchen,Cookware Set,Cookware Set Ducimus,4,27694.0,15,94159.6,7836.83,Upi,8.322921932548565,June,6
 11717,2025-04-07,Baiju Kakar,North,Delhi,Beauty,Perfume,Perfume Labore,3,75973.0,5,216523.05,30633.55,Debit Card,14.147939445707975,April,4
 11718,2025-09-27,Arhaan Venkataraman,South,Thiruvananthapuram,Home Decor,Lamp,Lamp Quos,1,4952.0,20,3961.6,319.05,Debit Card,8.053564216478192,September,9
@@ -1729,7 +1729,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 11728,2024-01-10,Mannat Dugar,North,Lucknow,Home Decor,Clock,Clock Enim,5,66835.0,10,300757.5,47167.33,Debit Card,15.682844151849912,January,1
 11729,2024-07-11,Myra Sharaf,East,Bhubaneswar,Electronics,Camera,Camera Quod,3,6082.0,10,16421.4,2105.21,Cod,12.819917911992887,July,7
 11730,2024-10-02,Dhanush Sandal,South,Hyderabad,Furniture,Table,Table Cum,2,39347.0,5,74759.3,4954.31,Upi,6.627014966699796,October,10
-11731,2024-09-23,Lagan Bora,East,Guwahati,Home Decor,Cushion,Cushion Eligendi,5,79277.0019,15,338810.0,56858.14,Upi,16.78171836722647,September,9
+11731,2024-09-23,Lagan Bora,East,Guwahati,Home Decor,Cushion,Cushion Eligendi,5,79277.19,15,338810.0,56858.14,Upi,16.78171836722647,September,9
 11732,2024-12-04,Samar Sant,North,Amritsar,Sports,Football,Football Qui,3,65579.0,10,177063.3,16632.21,Cod,9.393369489894292,December,12
 11733,2024-05-17,Anya Dyal,North,Lucknow,Books,Textbook,Textbook Debitis,4,70452.0,10,253627.2,43553.38,Net Banking,17.172203927654444,May,5
 11734,2025-05-27,Dishani Sethi,North,Lucknow,Home Decor,Wall Art,Wall Art Amet,4,78577.0,10,282877.2,41965.03,Upi,14.835069775860338,May,5
@@ -2058,7 +2058,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 12057,2024-08-17,Damini Kumar,North,Delhi,Groceries,Wheat,Wheat Iusto,4,56055.0,20,179376.0,27144.95,Debit Card,15.132988805637321,August,8
 12058,2023-11-10,Shamik Hayer,East,Guwahati,Beauty,Perfume,Perfume Quod,5,18989.0,5,90197.75,18901.2,Net Banking,20.95528990468166,November,11
 12059,2024-04-05,Zeeshan Roy,West,Goa,Furniture,Sofa,Sofa Nobis,4,9993.0,20,31977.6,2719.42,Cod,8.504140398278796,April,4
-12060,2024-01-14,Nitya Kale,East,Kolkata,Electronics,Headphones,Headphones Illo,1,79277.0019,10,71979.3,16673.46,Net Banking,23.164243053211127,January,1
+12060,2024-01-14,Nitya Kale,East,Kolkata,Electronics,Headphones,Headphones Illo,1,79277.19,10,71979.3,16673.46,Net Banking,23.164243053211127,January,1
 12061,2025-07-29,Seher Chacko,North,Jaipur,Home Decor,Wall Art,Wall Art Iusto,2,75748.0,15,128771.6,16647.26,Cod,12.927741831273353,July,7
 12062,2023-12-24,Indrajit Bhalla,East,Ranchi,Groceries,Sugar,Sugar Perspiciatis,3,27010.0,20,64824.0,11767.91,Upi,18.153631371097124,December,12
 12063,2025-05-20,Zeeshan Dash,North,Amritsar,Furniture,Sofa,Sofa Odit,4,71994.0,10,259178.4,51430.67,Cod,19.843733119735283,May,5
@@ -2067,7 +2067,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 12066,2025-03-29,Taran Sharma,North,Chandigarh,Kitchen,Cookware Set,Cookware Set Illo,1,56883.0,5,54038.85,11664.07,Net Banking,21.584600708564302,March,3
 12067,2024-10-18,Dhanuk Bhatnagar,East,Guwahati,Clothing,Women'S Wear,Women's Wear Magnam,1,18708.0,20,14966.4,2805.04,Credit Card,18.742249305110114,October,10
 12068,2025-07-22,Aarav Vaidya,West,Mumbai,Furniture,Table,Table Perspiciatis,4,60603.0,10,218170.8,32196.64,Debit Card,14.757538589032078,July,7
-12069,2025-05-24,Rania Bir,North,Delhi,Groceries,Sugar,Sugar Suscipit,5,79277.0019,5,377297.25,75188.15,Credit Card,19.928093830527523,May,5
+12069,2025-05-24,Rania Bir,North,Delhi,Groceries,Sugar,Sugar Suscipit,5,79277.19,5,377297.25,75188.15,Credit Card,19.928093830527523,May,5
 12070,2024-04-27,Rania Vala,North,Jaipur,Toys,Puzzle,Puzzle Quos,4,20901.0,15,71063.4,4325.75,Net Banking,6.087170048154184,April,4
 12071,2024-01-29,Madhav Jha,East,Bhubaneswar,Toys,Action Figure,Action Figure Quidem,2,23718.0,15,40320.6,7534.24,Net Banking,18.685833048119324,January,1
 12072,2024-07-24,Lakshit Sarma,West,Ahmedabad,Sports,Yoga Mat,Yoga Mat Maxime,5,3533.0,5,16781.75,2231.33,Debit Card,13.296169946519285,July,7
@@ -2165,7 +2165,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 12164,2025-04-29,Aarav Ahuja,South,Coimbatore,Sports,Cricket Bat,Cricket Bat Excepturi,4,54075.0,15,183855.0,38102.47,Cod,20.724195697696555,April,4
 12165,2024-04-04,Neelofar Ray,East,Kolkata,Furniture,Table,Table Veritatis,4,70677.0,15,240301.8,39888.68,Upi,16.599409575791775,April,4
 12166,2024-08-28,Nitara Upadhyay,West,Pune,Toys,Doll,Doll Cupiditate,2,37627.0,5,71491.3,9282.83,Net Banking,12.984558960321046,August,8
-12167,2025-03-28,Charvi Mallick,North,Lucknow,Home Decor,Vase,Vase Animi,2,79277.0019,0,158716.0,38917.65,Cod,24.520306711358657,March,3
+12167,2025-03-28,Charvi Mallick,North,Lucknow,Home Decor,Vase,Vase Animi,2,79277.19,0,158716.0,38917.65,Cod,24.520306711358657,March,3
 12168,2024-03-31,Ishita Vyas,North,Delhi,Clothing,Accessories,Accessories Quasi,5,43448.0,15,184654.0,25041.58,Debit Card,13.561352583751232,March,3
 12169,2025-01-23,Rhea Cherian,West,Mumbai,Home Decor,Wall Art,Wall Art Atque,2,72776.0,15,123719.2,27010.65,Upi,21.832221676182844,January,1
 12170,2025-03-24,Shanaya Ray,East,Guwahati,Furniture,Bed,Bed Et,4,11796.0,5,44824.8,3161.52,Credit Card,7.053059913262301,March,3
@@ -2178,7 +2178,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 12177,2024-12-09,Indrans Konda,East,Bhubaneswar,Home Decor,Wall Art,Wall Art Cum,5,72809.0,10,327640.5,54717.2,Net Banking,16.700377395346422,December,12
 12178,2024-02-23,Faiyaz Dayal,East,Patna,Home Decor,Vase,Vase Esse,5,15450.0,20,61800.0,6873.22,Cod,11.121715210355987,February,2
 12179,2025-04-22,Advik Borde,East,Ranchi,Beauty,Perfume,Perfume Assumenda,5,29745.0,10,133852.5,22784.4,Debit Card,17.022020507648346,April,4
-12180,2025-09-13,Hazel Barman,East,Patna,Clothing,Kids Wear,Kids Wear Sit,5,79277.0019,10,359460.0,64220.07,Cod,17.865706893673845,September,9
+12180,2025-09-13,Hazel Barman,East,Patna,Clothing,Kids Wear,Kids Wear Sit,5,79277.19,10,359460.0,64220.07,Cod,17.865706893673845,September,9
 12181,2024-12-09,Nishith Tara,West,Surat,Books,Fiction,Fiction Perferendis,2,71171.0,0,142342.0,33033.92,Cod,23.207429992553145,December,12
 12182,2024-02-03,Yuvaan Raman,East,Guwahati,Electronics,Smartwatch,Smartwatch Eum,3,36421.0,0,109263.0,17686.3,Net Banking,16.186906821156292,February,2
 12183,2025-03-06,Oorja Balakrishnan,East,Ranchi,Toys,Doll,Doll Tempore,2,59223.0,20,94756.8,9991.66,Debit Card,10.544530841058371,March,3
@@ -2368,7 +2368,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 12367,2024-01-21,Armaan Taneja,North,Jaipur,Furniture,Bed,Bed Incidunt,3,24986.0,20,59966.4,14461.24,Credit Card,24.115571386643186,January,1
 12368,2024-10-27,Ritvik Mangat,South,Coimbatore,Kitchen,Mixer Grinder,Mixer Grinder Aut,3,46658.0,20,111979.2,22883.07,Credit Card,20.435107591409835,October,10
 12369,2025-08-26,Jhanvi Mander,South,Bangalore,Books,Biography,Biography Temporibus,3,63161.0,15,161060.55,27410.79,Debit Card,17.018934804332904,August,8
-12370,2024-12-21,Advika Kala,East,Guwahati,Beauty,Shampoo,Shampoo Deserunt,1,79277.0019,20,63570.4,13239.5,Debit Card,20.826516743641694,December,12
+12370,2024-12-21,Advika Kala,East,Guwahati,Beauty,Shampoo,Shampoo Deserunt,1,79277.19,20,63570.4,13239.5,Debit Card,20.826516743641694,December,12
 12371,2025-04-01,Kiara D’Alia,East,Ranchi,Groceries,Wheat,Wheat Blanditiis,4,67376.0,0,269504.0,15498.78,Debit Card,5.750853419615294,April,4
 12372,2023-10-30,Jivin Bhandari,West,Surat,Kitchen,Juicer,Juicer Nam,3,60530.0,20,145272.0,14861.52,Credit Card,10.230133817941518,October,10
 12373,2024-03-12,Samaira Buch,East,Ranchi,Home Decor,Vase,Vase Perferendis,5,33311.0,15,141571.75,10032.41,Credit Card,7.086449097365823,March,3
@@ -2518,7 +2518,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 12517,2024-08-17,Bhamini Rama,South,Chennai,Clothing,Women'S Wear,Women's Wear Inventore,5,17700.0,10,79650.0,8003.55,Cod,10.048399246704331,August,8
 12518,2025-09-15,Kartik Chandran,North,Delhi,Clothing,Women'S Wear,Women's Wear Optio,5,24842.0,20,99368.0,5209.63,Credit Card,5.242764270187586,September,9
 12519,2025-08-23,Miraya Edwin,South,Coimbatore,Books,Non-Fiction,Non-Fiction Soluta,3,63871.0,0,191613.0,18990.31,Cod,9.910762839682068,August,8
-12520,2024-07-06,Tushar Jain,West,Goa,Beauty,Face Cream,Face Cream Pariatur,2,79277.0019,20,127916.8,20455.65,Upi,15.991370953619855,July,7
+12520,2024-07-06,Tushar Jain,West,Goa,Beauty,Face Cream,Face Cream Pariatur,2,79277.19,20,127916.8,20455.65,Upi,15.991370953619855,July,7
 12521,2024-07-31,Samiha Tata,South,Chennai,Books,Biography,Biography Nulla,4,19513.0,0,78052.0,9132.65,Credit Card,11.70072515758725,July,7
 12522,2024-07-15,Oorja Arora,West,Mumbai,Beauty,Perfume,Perfume Doloribus,3,70271.0,20,168650.4,34609.42,Debit Card,20.52139811112218,July,7
 12523,2024-10-23,Riaan Rattan,West,Pune,Books,Comics,Comics Consequuntur,1,65966.0,10,59369.4,12497.38,Cod,21.050204314006876,October,10
@@ -2646,8 +2646,8 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 12645,2025-07-13,Hansh Krish,North,Jaipur,Toys,Board Game,Board Game Harum,2,68216.0,0,136432.0,33682.96,Cod,24.688460185293774,July,7
 12646,2024-11-25,Samar Sathe,West,Ahmedabad,Books,Comics,Comics Nemo,5,63842.0,0,319210.0,71769.95,Cod,22.483615801509977,November,11
 12647,2024-11-14,Vivaan Tella,East,Guwahati,Books,Non-Fiction,Non-Fiction Totam,5,69145.0,10,311152.5,61304.08,Cod,19.702261752677547,November,11
-12648,2024-09-02,Devansh Hari,West,Surat,Clothing,Women'S Wear,Women's Wear Nemo,3,79277.0019,15,202651.05,41796.68,Upi,20.62495111671023,September,9
-12649,2025-04-07,Amira Kara,East,Bhubaneswar,Toys,Puzzle,Puzzle Ipsa,5,79277.0019,15,337581.75,66149.91,Net Banking,19.59522693392045,April,4
+12648,2024-09-02,Devansh Hari,West,Surat,Clothing,Women'S Wear,Women's Wear Nemo,3,79277.19,15,202651.05,41796.68,Upi,20.62495111671023,September,9
+12649,2025-04-07,Amira Kara,East,Bhubaneswar,Toys,Puzzle,Puzzle Ipsa,5,79277.19,15,337581.75,66149.91,Net Banking,19.59522693392045,April,4
 12650,2023-10-22,Mohanlal Tiwari,East,Ranchi,Electronics,Camera,Camera Facere,1,64914.0,15,55176.9,10151.81,Credit Card,18.398659583992576,October,10
 12651,2023-10-05,Yasmin Sengupta,South,Hyderabad,Kitchen,Microwave,Microwave Dolore,3,55650.0,0,166950.0,27964.98,Credit Card,16.750512129380056,October,10
 12652,2025-08-23,Advik Chatterjee,West,Surat,Groceries,Sugar,Sugar Voluptas,4,24723.0,0,98892.0,12758.88,Upi,12.901832301905108,August,8
@@ -2670,7 +2670,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 12669,2025-06-17,Kaira Mannan,North,Jaipur,Books,Fiction,Fiction Possimus,2,7949.0,5,15103.1,1095.15,Net Banking,7.251160357807337,June,6
 12670,2023-10-04,Dhruv Chakrabarti,West,Surat,Groceries,Sugar,Sugar Non,1,61466.0,0,61466.0,11022.91,Cod,17.933345264048416,October,10
 12671,2024-07-11,Kiara Bahl,North,Lucknow,Kitchen,Refrigerator,Refrigerator Ducimus,5,49063.0,5,233049.25,14776.65,Cod,6.340569643541011,July,7
-12672,2025-01-23,Shanaya Kale,West,Goa,Beauty,Shampoo,Shampoo Voluptatibus,2,79277.0019,15,135218.0,19337.93,Upi,14.3012986436717,January,1
+12672,2025-01-23,Shanaya Kale,West,Goa,Beauty,Shampoo,Shampoo Voluptatibus,2,79277.19,15,135218.0,19337.93,Upi,14.3012986436717,January,1
 12673,2024-02-23,Jhanvi Rout,West,Surat,Kitchen,Cookware Set,Cookware Set Necessitatibus,3,51253.0,5,146071.05,13243.68,Net Banking,9.066601492903626,February,2
 12674,2024-06-02,Mannat Sharma,East,Bhubaneswar,Groceries,Sugar,Sugar Quis,4,19605.0,5,74499.0,13964.94,Net Banking,18.74513751862441,June,6
 12675,2025-04-15,Lagan Kata,South,Thiruvananthapuram,Electronics,Headphones,Headphones Voluptates,1,24645.0,0,24645.0,3160.6,Net Banking,12.824508013795901,April,4
@@ -2744,7 +2744,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 12743,2024-01-24,Vedika Jain,North,Jaipur,Sports,Football,Football Ea,5,4458.0,5,21175.5,3963.23,Credit Card,18.716110599513588,January,1
 12744,2024-10-05,Anahi Chandran,East,Bhubaneswar,Furniture,Bed,Bed Voluptatem,1,56736.0,15,48225.6,7602.01,Debit Card,15.763432699645003,October,10
 12745,2025-01-05,Jhanvi Date,South,Coimbatore,Clothing,Kids Wear,Kids Wear Natus,2,10869.0,5,20651.1,4118.7,Debit Card,19.944216046602843,January,1
-12746,2025-06-27,Oorja Kanda,North,Lucknow,Sports,Football,Football Sequi,1,79277.0019,10,71441.1,6861.7,Credit Card,9.604695336437988,June,6
+12746,2025-06-27,Oorja Kanda,North,Lucknow,Sports,Football,Football Sequi,1,79277.19,10,71441.1,6861.7,Credit Card,9.604695336437988,June,6
 12747,2023-12-27,Navya Ramaswamy,South,Thiruvananthapuram,Electronics,Camera,Camera Officiis,3,17893.0,0,53679.0,9265.29,Credit Card,17.26054881797351,December,12
 12748,2024-06-13,Lakshay Bhatt,South,Bangalore,Sports,Tennis Racket,Tennis Racket Sapiente,2,35394.0,10,63709.2,3898.41,Cod,6.119069145429545,June,6
 12749,2025-06-30,Zara Acharya,South,Chennai,Electronics,Laptop,Laptop Cumque,3,42734.0,10,115381.8,22044.0,Net Banking,19.105266168494513,June,6
@@ -2840,7 +2840,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 12839,2024-09-09,Saira Baral,West,Goa,Groceries,Rice,Rice Quod,4,52251.0,5,198553.8,18049.25,Debit Card,9.090357374172644,September,9
 12840,2023-12-31,Nakul Swaminathan,East,Ranchi,Beauty,Lipstick,Lipstick Dignissimos,2,77746.0,0,155492.0,14907.76,Upi,9.587477169243435,December,12
 12841,2024-12-16,Riaan Mahal,North,Delhi,Furniture,Chair,Chair Quo,1,74821.0,15,63597.85,12212.62,Upi,19.202881858427606,December,12
-12842,2025-04-09,Diya Mangal,West,Surat,Toys,Rc Car,RC Car Optio,3,79277.0019,0,239472.0,19156.55,Credit Card,7.999494721721119,April,4
+12842,2025-04-09,Diya Mangal,West,Surat,Toys,Rc Car,RC Car Optio,3,79277.19,0,239472.0,19156.55,Credit Card,7.999494721721119,April,4
 12843,2025-09-06,Adira Bains,East,Patna,Groceries,Spices,Spices Provident,5,61020.0,10,274590.0,67381.45,Credit Card,24.538930769510905,September,9
 12844,2024-04-19,Divyansh Thakkar,East,Guwahati,Sports,Football,Football Maiores,1,2430.0,10,2187.0,202.04,Cod,9.238225880201188,April,4
 12845,2024-10-07,Nakul Choudhury,East,Ranchi,Toys,Action Figure,Action Figure Praesentium,5,48813.0,20,195252.0,44790.89,Net Banking,22.940041587282074,October,10
@@ -2959,7 +2959,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 12958,2025-09-20,Shamik Atwal,East,Ranchi,Home Decor,Wall Art,Wall Art Distinctio,3,42934.0,15,109481.7,19863.47,Debit Card,18.143187400268722,September,9
 12959,2024-10-30,Dharmajan Varkey,West,Goa,Books,Biography,Biography Voluptas,2,44336.0,10,79804.8,17157.69,Net Banking,21.499571454348608,October,10
 12960,2024-01-01,Ivana Sagar,West,Ahmedabad,Toys,Board Game,Board Game Eos,5,74164.0,10,333738.0,74227.75,Net Banking,22.241324032624394,January,1
-12961,2025-09-08,Raunak Atwal,South,Hyderabad,Clothing,Shoes,Shoes Eius,5,79277.0019,15,338376.5,60728.83,Net Banking,17.947118077053222,September,9
+12961,2025-09-08,Raunak Atwal,South,Hyderabad,Clothing,Shoes,Shoes Eius,5,79277.19,15,338376.5,60728.83,Net Banking,17.947118077053222,September,9
 12962,2025-03-22,Vidur Mallick,South,Hyderabad,Home Decor,Vase,Vase Quia,2,4773.0,20,7636.8,1172.75,Net Banking,15.356562958307144,March,3
 12963,2025-07-16,Kaira Joshi,South,Thiruvananthapuram,Kitchen,Refrigerator,Refrigerator Quae,5,50775.0,0,253875.0,22939.3,Debit Card,9.035667159034958,July,7
 12964,2024-04-22,Aarna Yadav,South,Chennai,Books,Comics,Comics Libero,3,12682.0,15,32339.1,6108.21,Cod,18.888002449047747,April,4
@@ -2986,10 +2986,10 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 12985,2024-12-22,Kimaya Garg,South,Hyderabad,Sports,Football,Football Enim,2,77925.0,20,124680.0,29388.7,Credit Card,23.57130253448829,December,12
 12986,2023-10-20,Hiran Ahuja,West,Ahmedabad,Furniture,Table,Table Quasi,1,9490.0,5,9015.5,714.35,Debit Card,7.923576063446287,October,10
 12987,2025-04-15,Samiha Upadhyay,North,Delhi,Sports,Yoga Mat,Yoga Mat Ea,3,30925.0,10,83497.5,11950.92,Debit Card,14.312907572082997,April,4
-12988,2024-11-15,Diya Bir,West,Ahmedabad,Beauty,Lipstick,Lipstick In,1,79277.0019,5,75595.3,15580.38,Net Banking,20.610249579008215,November,11
+12988,2024-11-15,Diya Bir,West,Ahmedabad,Beauty,Lipstick,Lipstick In,1,79277.19,5,75595.3,15580.38,Net Banking,20.610249579008215,November,11
 12989,2024-01-16,Nehmat Dugal,East,Patna,Clothing,Shoes,Shoes Possimus,4,5233.0,0,20932.0,3998.28,Net Banking,19.101280336327157,January,1
 12990,2024-09-04,Samiha Raval,West,Goa,Furniture,Sofa,Sofa Ducimus,2,50534.0,10,90961.2,11817.29,Cod,12.991572230797308,September,9
-12991,2024-03-16,Rania Bal,North,Delhi,Furniture,Table,Table Delectus,1,79277.0019,5,75896.45,6114.17,Cod,8.055936740124208,March,3
+12991,2024-03-16,Rania Bal,North,Delhi,Furniture,Table,Table Delectus,1,79277.19,5,75896.45,6114.17,Cod,8.055936740124208,March,3
 12992,2025-07-20,Sara Virk,East,Patna,Books,Non-Fiction,Non-Fiction Suscipit,2,20984.0,15,35672.8,2566.54,Net Banking,7.194669327891277,July,7
 12993,2024-04-02,Yashvi Khurana,North,Lucknow,Clothing,Men'S Wear,Men's Wear Quidem,2,51569.0,15,87667.3,21791.96,Credit Card,24.857569470030445,April,4
 12994,2024-01-02,Vedika Ramachandran,South,Chennai,Electronics,Mobile,Mobile Laboriosam,1,46498.0,15,39523.3,4002.98,Debit Card,10.12815225449292,January,1
@@ -3057,7 +3057,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 13056,2025-05-18,Samarth Brar,East,Ranchi,Beauty,Face Cream,Face Cream Voluptatibus,2,61973.0,10,111551.4,15434.62,Upi,13.836330158115453,May,5
 13057,2023-11-22,Inaaya  Subramanian,East,Patna,Furniture,Bed,Bed Ullam,4,17771.0,0,71084.0,6882.6,Net Banking,9.682347645039673,November,11
 13058,2025-09-16,Sumer Majumdar,South,Chennai,Electronics,Smartwatch,Smartwatch Consectetur,3,63135.0,10,170464.5,10224.17,Cod,5.9978294600928646,September,9
-13059,2024-05-31,Raghav Hari,West,Goa,Groceries,Rice,Rice Esse,3,79277.0019,0,239523.0,26323.93,Net Banking,10.990147083996108,May,5
+13059,2024-05-31,Raghav Hari,West,Goa,Groceries,Rice,Rice Esse,3,79277.19,0,239523.0,26323.93,Net Banking,10.990147083996108,May,5
 13060,2024-03-16,Jiya Chaudhary,East,Patna,Books,Textbook,Textbook Commodi,1,317.0,15,269.45,38.24,Net Banking,14.191872332529226,March,3
 13061,2025-08-18,Ojas Bala,West,Surat,Electronics,Smartwatch,Smartwatch Suscipit,2,3923.0,10,7061.4,1206.4,Debit Card,17.084430849406633,August,8
 13062,2024-01-16,Samarth Gera,West,Mumbai,Kitchen,Mixer Grinder,Mixer Grinder Enim,4,45989.0,15,156362.6,36552.82,Net Banking,23.37695842867796,January,1
@@ -3331,7 +3331,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 13330,2024-10-01,Rasha Saxena,South,Coimbatore,Home Decor,Lamp,Lamp Libero,5,78716.0,0,393580.0,75345.21,Net Banking,19.143556583159715,October,10
 13331,2024-05-23,Mishti Dayal,South,Coimbatore,Kitchen,Juicer,Juicer Labore,3,28534.0,5,81321.9,9500.16,Upi,11.682166796398018,May,5
 13332,2024-09-25,Tanya Chowdhury,East,Patna,Electronics,Headphones,Headphones Ipsa,4,54174.0,0,216696.0,40956.13,Cod,18.900270424927086,September,9
-13333,2025-02-07,Rohan Khare,West,Surat,Sports,Dumbbells,Dumbbells Fuga,5,79277.0019,0,398485.0,21266.93,Cod,5.336946183670652,February,2
+13333,2025-02-07,Rohan Khare,West,Surat,Sports,Dumbbells,Dumbbells Fuga,5,79277.19,0,398485.0,21266.93,Cod,5.336946183670652,February,2
 13334,2025-06-12,Devansh Dhar,East,Ranchi,Home Decor,Clock,Clock Ex,4,21351.0,20,68323.2,13465.8,Debit Card,19.70897147674582,June,6
 13335,2024-09-21,Hunar Sachdev,North,Amritsar,Sports,Cricket Bat,Cricket Bat Voluptates,4,51084.0,0,204336.0,47304.96,Debit Card,23.150575522668547,September,9
 13336,2024-12-17,Vihaan Hora,East,Bhubaneswar,Furniture,Chair,Chair Porro,1,10487.0,5,9962.65,1500.22,Cod,15.058443285671984,December,12
@@ -3385,7 +3385,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 13384,2025-09-15,Adah Ratta,North,Lucknow,Beauty,Lipstick,Lipstick Modi,3,9504.0,10,25660.8,2214.06,Debit Card,8.628179947624393,September,9
 13385,2025-04-21,Diya Mand,East,Guwahati,Furniture,Sofa,Sofa Aut,3,72125.0,15,183918.75,35399.77,Cod,19.247504672579602,April,4
 13386,2023-11-30,Vedika Hegde,South,Bangalore,Clothing,Shoes,Shoes Soluta,1,8316.0,5,7900.2,1120.68,Upi,14.18546365914787,November,11
-13387,2024-02-23,Yasmin Bir,South,Thiruvananthapuram,Books,Fiction,Fiction Sapiente,5,79277.0019,5,377387.5,74951.75,Cod,19.860686959689975,February,2
+13387,2024-02-23,Yasmin Bir,South,Thiruvananthapuram,Books,Fiction,Fiction Sapiente,5,79277.19,5,377387.5,74951.75,Cod,19.860686959689975,February,2
 13388,2024-05-20,Ehsaan Ghosh,North,Delhi,Groceries,Rice,Rice Ipsam,2,3881.0,20,6209.6,685.22,Net Banking,11.034849265653182,May,5
 13389,2024-12-15,Pihu Jaggi,East,Guwahati,Furniture,Sofa,Sofa Dolorem,4,35942.0,0,143768.0,14346.17,Upi,9.978694841689387,December,12
 13390,2024-08-26,Lagan Date,North,Delhi,Clothing,Women'S Wear,Women's Wear Corporis,3,43326.0,10,116980.2,26824.08,Cod,22.930444639349226,August,8
@@ -3641,14 +3641,14 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 13640,2025-06-12,Anahita Sunder,East,Ranchi,Kitchen,Cookware Set,Cookware Set Laborum,4,67695.0,20,216624.0,37226.1,Net Banking,17.184660979392866,June,6
 13641,2025-05-11,Ryan Behl,North,Chandigarh,Home Decor,Clock,Clock Iste,1,62470.0,10,56223.0,3547.07,Credit Card,6.308930508866478,May,5
 13642,2023-12-08,Ojas Sani,West,Mumbai,Kitchen,Mixer Grinder,Mixer Grinder Laboriosam,4,29094.0,0,116376.0,22733.34,Cod,19.534388533718293,December,12
-13643,2023-11-15,Navya Chandra,West,Pune,Electronics,Laptop,Laptop Voluptatibus,4,79277.0019,20,255308.8,42298.42,Net Banking,16.567552704802967,November,11
+13643,2023-11-15,Navya Chandra,West,Pune,Electronics,Laptop,Laptop Voluptatibus,4,79277.19,20,255308.8,42298.42,Net Banking,16.567552704802967,November,11
 13644,2024-04-16,Manjari Ben,East,Kolkata,Clothing,Kids Wear,Kids Wear Aspernatur,3,26426.0,20,63422.4,12272.84,Upi,19.35095486768082,April,4
 13645,2024-12-06,Azad Sunder,East,Kolkata,Home Decor,Vase,Vase Atque,3,26546.0,15,67692.3,5902.01,Debit Card,8.718879399872659,December,12
 13646,2025-08-29,Yuvaan Kulkarni,North,Amritsar,Furniture,Chair,Chair Labore,4,34082.0,15,115878.8,11368.47,Cod,9.810655616040206,August,8
 13647,2025-07-22,Himmat Khare,South,Bangalore,Kitchen,Mixer Grinder,Mixer Grinder Voluptatum,5,76009.0,0,380045.0,87688.21,Debit Card,23.073112394584854,July,7
 13648,2024-06-19,Mannat Chad,East,Guwahati,Furniture,Sofa,Sofa Pariatur,4,2470.0,15,8398.0,1172.19,Net Banking,13.957966182424386,June,6
 13649,2024-12-20,Badal Chaudhari,North,Chandigarh,Toys,Action Figure,Action Figure Nulla,5,61017.0,10,274576.5,40569.94,Debit Card,14.775459662425591,December,12
-13650,2024-07-25,Jayant Sane,North,Delhi,Kitchen,Refrigerator,Refrigerator Doloremque,2,79277.0019,20,127176.0,19499.8,Cod,15.332924451154305,July,7
+13650,2024-07-25,Jayant Sane,North,Delhi,Kitchen,Refrigerator,Refrigerator Doloremque,2,79277.19,20,127176.0,19499.8,Cod,15.332924451154305,July,7
 13651,2025-05-12,Shaan Date,South,Chennai,Books,Fiction,Fiction Minus,2,40020.0,5,76038.0,11962.32,Credit Card,15.732028722480864,May,5
 13652,2025-05-06,Zara Raval,East,Ranchi,Clothing,Shoes,Shoes Velit,1,1063.0,20,850.4,123.54,Debit Card,14.527281279397933,May,5
 13653,2023-12-31,Alisha Chadha,West,Ahmedabad,Kitchen,Refrigerator,Refrigerator Soluta,1,31506.0,10,28355.4,3324.04,Upi,11.722775908645266,December,12
@@ -3710,7 +3710,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 13709,2025-05-11,Manikya Gara,North,Lucknow,Books,Biography,Biography Adipisci,2,52157.0,15,88666.9,5256.74,Debit Card,5.9286385336579945,May,5
 13710,2025-03-08,Yasmin Biswas,North,Jaipur,Furniture,Table,Table Quam,5,67845.0,15,288341.25,38370.6,Cod,13.30735716793903,March,3
 13711,2025-06-09,Devansh Sarraf,East,Guwahati,Electronics,Camera,Camera Sunt,5,3159.0,5,15005.25,3290.52,Net Banking,21.929124806317787,June,6
-13712,2025-06-28,Zara Chada,North,Amritsar,Home Decor,Lamp,Lamp At,2,79277.0019,20,127712.0,20794.83,Net Banking,16.282596780255577,June,6
+13712,2025-06-28,Zara Chada,North,Amritsar,Home Decor,Lamp,Lamp At,2,79277.19,20,127712.0,20794.83,Net Banking,16.282596780255577,June,6
 13713,2024-08-29,Chirag Datta,West,Goa,Books,Fiction,Fiction Deserunt,3,40774.0,10,110089.8,21419.65,Cod,19.45652549100825,August,8
 13714,2025-01-12,Hrishita Mand,North,Amritsar,Electronics,Camera,Camera Enim,2,8861.0,20,14177.6,1093.5,Debit Card,7.712871007786931,January,1
 13715,2025-02-07,Ritvik Sawhney,West,Pune,Furniture,Sofa,Sofa Provident,2,54475.0,15,92607.5,9284.56,Net Banking,10.025710660583645,February,2
@@ -3727,7 +3727,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 13726,2025-08-14,Miraya Badami,North,Chandigarh,Toys,Puzzle,Puzzle Ullam,3,40691.0,20,97658.4,19900.83,Net Banking,20.378001277923868,August,8
 13727,2023-11-30,Aarush Dhingra,North,Delhi,Electronics,Mobile,Mobile Illo,3,4515.0,0,13545.0,2465.9,Upi,18.205241786637135,November,11
 13728,2024-09-15,Ivana Thakkar,South,Bangalore,Home Decor,Vase,Vase Recusandae,3,9909.0,0,29727.0,3132.26,Upi,10.536751101692065,September,9
-13729,2025-01-08,Riaan Hayre,North,Delhi,Beauty,Face Cream,Face Cream Exercitationem,2,79277.0019,10,143047.8,28493.2,Net Banking,19.918656560953753,January,1
+13729,2025-01-08,Riaan Hayre,North,Delhi,Beauty,Face Cream,Face Cream Exercitationem,2,79277.19,10,143047.8,28493.2,Net Banking,19.918656560953753,January,1
 13730,2024-05-30,Arhaan Saxena,North,Lucknow,Toys,Action Figure,Action Figure Ab,5,29118.0,20,116472.0,17210.26,Upi,14.776306751837351,May,5
 13731,2025-06-18,Azad Dhillon,North,Chandigarh,Electronics,Smartwatch,Smartwatch Eum,5,70579.0,15,299960.75,30248.57,Cod,10.084176013028372,June,6
 13732,2025-07-01,Zara Uppal,East,Kolkata,Beauty,Shampoo,Shampoo Dolore,5,3008.0,20,12032.0,942.93,Upi,7.8368517287234045,July,7
@@ -3932,7 +3932,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 13931,2025-06-19,Arnav Kunda,North,Lucknow,Electronics,Smartwatch,Smartwatch Nostrum,4,1709.0,0,6836.0,1085.47,Net Banking,15.878730251609127,June,6
 13932,2024-04-01,Divit Hora,East,Kolkata,Books,Fiction,Fiction Fugiat,2,9466.0,5,17985.4,1606.5,Cod,8.932245043201707,April,4
 13933,2024-05-01,Madhav Rama,South,Hyderabad,Sports,Tennis Racket,Tennis Racket Temporibus,1,74859.0,20,59887.2,10247.62,Net Banking,17.111536355014096,May,5
-13934,2024-12-19,Hansh Balakrishnan,East,Patna,Electronics,Smartwatch,Smartwatch Illum,1,79277.0019,15,67752.65,10348.3,Net Banking,15.273646123066772,December,12
+13934,2024-12-19,Hansh Balakrishnan,East,Patna,Electronics,Smartwatch,Smartwatch Illum,1,79277.19,15,67752.65,10348.3,Net Banking,15.273646123066772,December,12
 13935,2025-07-14,Lakshay Mall,North,Lucknow,Groceries,Sugar,Sugar Iure,5,43802.0,5,208059.5,37267.99,Credit Card,17.912178968035587,July,7
 13936,2023-12-16,Anika Kapoor,East,Patna,Kitchen,Juicer,Juicer Officia,4,53838.0,10,193816.8,19626.97,Debit Card,10.126557656508622,December,12
 13937,2023-11-22,Ira Kulkarni,West,Surat,Books,Comics,Comics Quam,1,8911.0,5,8465.45,1696.03,Upi,20.034729400090956,November,11
@@ -4165,7 +4165,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 14164,2024-05-01,Raghav Bhat,North,Jaipur,Books,Comics,Comics Doloribus,4,12589.0,20,40284.8,4654.18,Debit Card,11.553191278099927,May,5
 14165,2024-11-17,Samaira Hegde,North,Jaipur,Sports,Tennis Racket,Tennis Racket Doloremque,2,29344.0,0,58688.0,4597.42,Net Banking,7.833662758996729,November,11
 14166,2024-01-21,Ehsaan Date,North,Lucknow,Beauty,Perfume,Perfume Dignissimos,1,9083.0,15,7720.55,1853.99,Debit Card,24.013703686913495,January,1
-14167,2023-12-08,Kismat Batra,North,Jaipur,Clothing,Shoes,Shoes Magnam,1,79277.0019,0,79625.0,4506.9,Net Banking,5.660156985871271,December,12
+14167,2023-12-08,Kismat Batra,North,Jaipur,Clothing,Shoes,Shoes Magnam,1,79277.19,0,79625.0,4506.9,Net Banking,5.660156985871271,December,12
 14168,2024-07-09,Charvi Dua,West,Pune,Sports,Yoga Mat,Yoga Mat Dolorum,5,15766.0,20,63064.0,11775.01,Cod,18.671524165926677,July,7
 14169,2025-08-26,Hridaan Raj,West,Goa,Clothing,Women'S Wear,Women's Wear Sapiente,1,29337.0,20,23469.6,5250.97,Cod,22.373495926645536,August,8
 14170,2024-05-07,Zoya Ranganathan,East,Ranchi,Sports,Tennis Racket,Tennis Racket Sit,1,72627.0,10,65364.3,11782.64,Upi,18.02610905341295,May,5
@@ -4384,7 +4384,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 14383,2024-01-13,Damini Rout,East,Ranchi,Books,Non-Fiction,Non-Fiction Doloribus,2,55708.0,10,100274.4,8709.55,Cod,8.685716394214275,January,1
 14384,2024-12-06,Neelofar Warrior,North,Jaipur,Kitchen,Cookware Set,Cookware Set Blanditiis,4,73656.0,5,279892.8,17589.47,Net Banking,6.284359583383353,December,12
 14385,2024-05-24,Azad Sawhney,West,Goa,Electronics,Laptop,Laptop Error,5,73283.0,10,329773.5,71073.74,Net Banking,21.55228967761206,May,5
-14386,2025-06-03,Tara Raju,North,Amritsar,Home Decor,Lamp,Lamp Deserunt,1,79277.0019,20,63918.4,11228.51,Net Banking,17.56694472953015,June,6
+14386,2025-06-03,Tara Raju,North,Amritsar,Home Decor,Lamp,Lamp Deserunt,1,79277.19,20,63918.4,11228.51,Net Banking,17.56694472953015,June,6
 14387,2024-06-08,Riaan Vala,South,Hyderabad,Clothing,Shoes,Shoes Nam,4,51973.0,5,197497.4,48624.81,Debit Card,24.620481079750924,June,6
 14388,2024-11-21,Gatik Banerjee,South,Coimbatore,Groceries,Sugar,Sugar Voluptas,5,32801.0,20,131204.0,10020.28,Credit Card,7.637175695862932,November,11
 14389,2024-11-11,Nirvaan Bhardwaj,West,Mumbai,Electronics,Headphones,Headphones Nam,1,20852.0,20,16681.6,2362.07,Debit Card,14.159732879340115,November,11
@@ -4631,7 +4631,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 14630,2025-02-06,Samaira Sastry,East,Patna,Clothing,Accessories,Accessories Ipsam,2,1670.0,20,2672.0,160.18,Net Banking,5.994760479041917,February,2
 14631,2024-08-22,Manikya Sibal,South,Thiruvananthapuram,Beauty,Lipstick,Lipstick Repellat,2,66972.0,15,113852.4,16952.07,Net Banking,14.889514845536853,August,8
 14632,2024-07-13,Lakshay Malhotra,North,Delhi,Furniture,Table,Table Voluptates,4,30883.0,15,105002.2,15147.86,Net Banking,14.42623106944426,July,7
-14633,2025-06-24,Bhavin Anand,East,Ranchi,Kitchen,Juicer,Juicer Expedita,2,79277.0019,0,159290.0,33087.24,Upi,20.771699416159205,June,6
+14633,2025-06-24,Bhavin Anand,East,Ranchi,Kitchen,Juicer,Juicer Expedita,2,79277.19,0,159290.0,33087.24,Upi,20.771699416159205,June,6
 14634,2025-02-15,Biju Shan,West,Mumbai,Furniture,Sofa,Sofa Ad,3,63315.0,0,189945.0,36976.92,Upi,19.467172076127298,February,2
 14635,2024-06-12,Saksham Chad,West,Surat,Sports,Yoga Mat,Yoga Mat Rerum,3,35118.0,20,84283.2,18661.31,Debit Card,22.141197771323352,June,6
 14636,2025-05-22,Alia Sibal,North,Chandigarh,Home Decor,Cushion,Cushion Similique,3,46911.0,20,112586.4,22653.42,Credit Card,20.120920466415125,May,5
@@ -4643,7 +4643,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 14642,2025-06-27,Dhruv Sarna,South,Chennai,Home Decor,Clock,Clock Illum,1,8559.0,15,7275.15,739.35,Credit Card,10.162677058204986,June,6
 14643,2025-04-27,Myra Sodhi,South,Bangalore,Groceries,Wheat,Wheat Distinctio,2,15624.0,10,28123.2,4262.28,Cod,15.15574330090459,April,4
 14644,2025-03-16,Dhanush Ratti,North,Chandigarh,Home Decor,Clock,Clock Recusandae,5,68788.0,20,275152.0,59336.8,Debit Card,21.56509856370297,March,3
-14645,2024-09-03,Uthkarsh Bhardwaj,South,Bangalore,Home Decor,Lamp,Lamp Dolorem,1,79277.0019,0,79827.0,13912.03,Debit Card,17.427724955215655,September,9
+14645,2024-09-03,Uthkarsh Bhardwaj,South,Bangalore,Home Decor,Lamp,Lamp Dolorem,1,79277.19,0,79827.0,13912.03,Debit Card,17.427724955215655,September,9
 14646,2024-06-12,Aarna Karnik,South,Hyderabad,Kitchen,Microwave,Microwave Recusandae,2,18022.0,15,30637.4,5909.14,Cod,19.287341615150112,June,6
 14647,2023-10-16,Krish Toor,West,Goa,Home Decor,Vase,Vase Ut,3,19990.0,10,53973.0,12190.49,Upi,22.586274618790878,October,10
 14648,2023-10-28,Shlok Kumer,East,Patna,Electronics,Laptop,Laptop Nihil,3,25326.0,10,68380.2,5534.28,Credit Card,8.093395456579536,October,10
@@ -4757,7 +4757,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 14756,2024-03-25,Kismat Buch,North,Lucknow,Groceries,Wheat,Wheat Sint,2,9170.0,15,15589.0,3591.92,Upi,23.041375328757457,March,3
 14757,2024-06-01,Badal Rao,West,Pune,Groceries,Rice,Rice Optio,5,69671.0,0,348355.0,24008.28,Debit Card,6.891900503796414,June,6
 14758,2023-12-05,Adah Balasubramanian,South,Hyderabad,Books,Non-Fiction,Non-Fiction Sed,4,20105.0,20,64336.0,10537.79,Debit Card,16.379305521014675,December,12
-14759,2024-05-13,Anvi Sarna,South,Coimbatore,Furniture,Bed,Bed Amet,1,79277.0019,20,63477.6,11795.42,Debit Card,18.582019484038465,May,5
+14759,2024-05-13,Anvi Sarna,South,Coimbatore,Furniture,Bed,Bed Amet,1,79277.19,20,63477.6,11795.42,Debit Card,18.582019484038465,May,5
 14760,2024-03-05,Hrishita Kadakia,West,Goa,Toys,Puzzle,Puzzle Veniam,4,35782.0,15,121658.8,18258.37,Debit Card,15.007849822618665,March,3
 14761,2025-09-23,Darshit Gill,West,Pune,Toys,Puzzle,Puzzle Corrupti,4,21034.0,20,67308.8,14463.56,Cod,21.488364077208328,September,9
 14762,2024-08-22,Armaan Rana,North,Chandigarh,Groceries,Spices,Spices Ea,4,73446.0,15,249716.4,53198.93,Net Banking,21.3037389614779,August,8
@@ -4843,7 +4843,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 14842,2023-11-23,Damini Kumar,South,Chennai,Clothing,Women'S Wear,Women's Wear Sint,2,14488.0,0,28976.0,6402.08,Upi,22.0944229707344,November,11
 14843,2024-09-12,Samiha Sarna,North,Delhi,Furniture,Sofa,Sofa Natus,3,23451.0,0,70353.0,12996.7,Net Banking,18.47355478799767,September,9
 14844,2025-01-26,Samaira Chokshi,West,Ahmedabad,Groceries,Spices,Spices Minus,1,38675.0,10,34807.5,4722.05,Credit Card,13.56618544853839,January,1
-14845,2024-10-04,Arnav Gara,East,Bhubaneswar,Furniture,Cabinet,Cabinet Magni,3,79277.0019,5,226794.45,51973.02,Credit Card,22.916354434599256,October,10
+14845,2024-10-04,Arnav Gara,East,Bhubaneswar,Furniture,Cabinet,Cabinet Magni,3,79277.19,5,226794.45,51973.02,Credit Card,22.916354434599256,October,10
 14846,2024-04-21,Riaan Deep,South,Chennai,Beauty,Lipstick,Lipstick Doloribus,1,41181.0,20,32944.8,2156.95,Debit Card,6.5471637405599665,April,4
 14847,2025-05-30,Mehul Tailor,West,Pune,Groceries,Oil,Oil Ea,4,44063.0,5,167439.4,38657.43,Net Banking,23.08741550674453,May,5
 14848,2024-12-07,Nirvi Walla,East,Patna,Beauty,Perfume,Perfume Sint,5,45804.0,10,206118.0,39846.87,Credit Card,19.332067068378308,December,12
@@ -4889,7 +4889,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 14888,2023-12-13,Yuvraj  Ramaswamy,East,Guwahati,Groceries,Sugar,Sugar Quia,3,29082.0,5,82883.7,12361.51,Credit Card,14.914283508096284,December,12
 14889,2025-01-17,Dhanuk Mandal,East,Patna,Sports,Football,Football Sequi,3,27212.0,20,65308.8,12706.81,Upi,19.456505095791073,January,1
 14890,2024-07-20,Arhaan Sehgal,West,Goa,Groceries,Oil,Oil Magni,4,33161.0,15,112747.4,21224.25,Cod,18.82460260724416,July,7
-14891,2023-11-24,Raghav Bhargava,North,Lucknow,Furniture,Table,Table Beatae,3,79277.0019,5,226355.55,37482.7,Debit Card,16.559214032967162,November,11
+14891,2023-11-24,Raghav Bhargava,North,Lucknow,Furniture,Table,Table Beatae,3,79277.19,5,226355.55,37482.7,Debit Card,16.559214032967162,November,11
 14892,2024-09-30,Vaibhav Lad,West,Goa,Clothing,Accessories,Accessories Alias,2,34933.0,20,55892.8,4764.82,Upi,8.524926287464574,September,9
 14893,2024-02-17,Priyansh Kar,South,Coimbatore,Furniture,Sofa,Sofa Doloremque,2,32335.0,5,61436.5,14426.38,Debit Card,23.48177386407103,February,2
 14894,2025-06-05,Yashvi Brar,East,Guwahati,Beauty,Shampoo,Shampoo Eligendi,3,16749.0,10,45222.3,8661.13,Debit Card,19.152342981228283,June,6
@@ -4899,7 +4899,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 14898,2024-06-23,Chirag Ram,South,Thiruvananthapuram,Toys,Puzzle,Puzzle Delectus,1,41713.0,5,39627.35,2407.96,Net Banking,6.076510288979708,June,6
 14899,2024-01-25,Vivaan Varma,South,Chennai,Kitchen,Juicer,Juicer Dignissimos,5,37107.0,15,157704.75,23794.68,Upi,15.088118778920737,January,1
 14900,2025-04-02,Jayan Kapoor,West,Ahmedabad,Sports,Tennis Racket,Tennis Racket Esse,3,27635.0,5,78759.75,15702.86,Credit Card,19.93767120896143,April,4
-14901,2023-11-28,Shaan Yohannan,East,Kolkata,Home Decor,Cushion,Cushion Quod,3,79277.0019,10,214563.6,14735.15,Upi,6.86749756249429,November,11
+14901,2023-11-28,Shaan Yohannan,East,Kolkata,Home Decor,Cushion,Cushion Quod,3,79277.19,10,214563.6,14735.15,Upi,6.86749756249429,November,11
 14902,2023-12-25,Samar Gandhi,West,Ahmedabad,Home Decor,Clock,Clock Recusandae,2,55553.0,15,94440.1,17734.41,Upi,18.778474398057604,December,12
 14903,2025-05-28,Fateh Chaudhari,South,Bangalore,Toys,Puzzle,Puzzle Minus,5,3203.0,5,15214.25,2757.76,Upi,18.126164615409895,May,5
 14904,2024-03-30,Vihaan Barad,East,Bhubaneswar,Clothing,Accessories,Accessories Autem,4,41652.0,0,166608.0,26845.29,Net Banking,16.112845721694036,March,3
@@ -4980,7 +4980,7 @@ order_id,order_date,customer_name,region,city,category,sub-category,product_name
 14979,2025-01-29,Aaryahi Chada,North,Chandigarh,Furniture,Cabinet,Cabinet Aperiam,5,53971.0,15,229376.75,47469.28,Debit Card,20.6948960607385,January,1
 14980,2024-09-07,Oorja Borde,East,Kolkata,Books,Non-Fiction,Non-Fiction Labore,4,60687.0,0,242748.0,28821.8,Debit Card,11.873135926969532,September,9
 14981,2024-08-09,Hunar Borra,East,Guwahati,Toys,Board Game,Board Game Rerum,1,36798.0,5,34958.1,5736.12,Debit Card,16.40855767332893,August,8
-14982,2024-03-23,Ishita Subramaniam,North,Amritsar,Groceries,Wheat,Wheat Adipisci,2,79277.0019,20,127513.6,15071.89,Cod,11.819829414274242,March,3
+14982,2024-03-23,Ishita Subramaniam,North,Amritsar,Groceries,Wheat,Wheat Adipisci,2,79277.19,20,127513.6,15071.89,Cod,11.819829414274242,March,3
 14983,2024-03-08,Saksham Sur,East,Patna,Kitchen,Mixer Grinder,Mixer Grinder Similique,3,38411.0,5,109471.35,26491.54,Credit Card,24.19951886954897,March,3
 14984,2025-02-07,Tiya Kamdar,South,Hyderabad,Beauty,Face Cream,Face Cream Magnam,5,40448.0,5,192128.0,25187.64,Upi,13.109822618254496,February,2
 14985,2025-09-30,Inaaya  Bandi,South,Chennai,Groceries,Sugar,Sugar Excepturi,4,15227.0,0,60908.0,8627.02,Debit Card,14.164017863006503,September,9
